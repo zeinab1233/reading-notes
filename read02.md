@@ -1,6 +1,6 @@
 # Welcome to read 2 ^.^
 
-##  Git explanation 
+##  Git clearifying 
 Version Control system,vcs have a recording changes property that allows tracking and determining mistakes within project 
 for aprogrammer , Local VCS entails one database on the hard disk that stores changes to files, while for team programming work a centralized system entails a single server storing all changes and file versions, which can be accessed by all team members and allows programmers to access team members’ activities with certain files,
 and permit them to control over divvying up revision privileges.
