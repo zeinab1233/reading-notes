@@ -1,11 +1,14 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> bdf0955344d581e7cbb8d5c69d009f375bfcd12a
 # Read03
 **102d29**
 ## CH1 SUMMARY
-1) HTML pages are text documents.
+### HTML is used to create web pages. by adding tags or elements to the words you want to appear on your page so that elements tell the browser  what is a heading, where a paragraph begins and ends, and so on.
+
+
+![Screenshot_78](https://user-images.githubusercontent.com/58809722/115088572-204f5180-9f19-11eb-8fc8-ad0ca18880ee.png)
+![Screenshot_79](https://user-images.githubusercontent.com/58809722/115088628-407f1080-9f19-11eb-9f55-6e86025607d6.png)
+### Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
+![Screenshot_80](https://user-images.githubusercontent.com/58809722/115089575-2a724f80-9f1b-11eb-966f-92e973c87d89.png)
 2) HTML uses tags (characters that sit inside angled 
 brackets) to give the information they surround special 
 meaning.
