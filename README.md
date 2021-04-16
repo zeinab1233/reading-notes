@@ -12,11 +12,11 @@
 ![markdn](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 ### MD is a markup language  easy-to-use syntax text-styling and control document dispaly .
 > things  MD can format
-1) text
-2) lists
-3) imgs
-4) header and quotes
-5) codes
+-  text
+-  lists
+-  imgs
+-  header and quotes
+-  codes
 
 
 
