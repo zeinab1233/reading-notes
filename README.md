@@ -9,20 +9,18 @@
 
 ![mindset](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
 ## markdown on github:
-### is an easy-to-use syntax text-styling tool and document dispaly controller into which you can format words and create lists ,links ,tables ect.
-> EXAMPLES
-1) for Headings use # to controll the size , the more # number you use the smaller heading size
-3) Styling text
-4) block qoute >
-5) inline code `<addr>`
-6) for Links [GitHub](http://github.com)
-7) Section links
-8) for imgs ![Alt Text](url)
-9) for Lists use 1-  1) or *
+![markdn](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+### MD is a markup language  easy-to-use syntax text-styling and control document dispaly .
+> things  MD can format
+1) text
+2) lists
+3) imgs
+4) header and quotes
+5) codes
 
 
 
 ## Getting Started with GitHub Pages
-### GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.and in order to build your website and make your own changes use the following link for help:
+### GitHub Pages are public webpages hosted and easily published through GitHub. powered by Jekyll behind the scenes, so they’re a great way to host your Jekyll-powered website for free. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.and in order to build your website and make your own changes 
 [github](https://guides.github.com/features/pages/)
 ## *my name is zainab albadareen i am a mother of two and i am a chemist from just interested in computational chemistry  and solve chemical issues using computer and i am interested in coding*
