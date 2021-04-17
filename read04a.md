@@ -1,4 +1,4 @@
-## dynamic 
+## Dynamic web pages with JavaScript
 ** javascript**
 * HOW DO COMPUTER FIT IN WITH THE WORLD AROUND?
  computer creates models --> models use objects-->programmers write codes--> browsers use html to create model of web page---> write code that uses the browser model

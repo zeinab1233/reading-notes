@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bdf0955344d581e7cbb8d5c69d009f375bfcd12a
 # Read03
 **102d29**
 ## CH1 SUMMARY
