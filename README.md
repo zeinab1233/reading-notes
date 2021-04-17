@@ -8,18 +8,19 @@
    - intelligence and talent are seen as traits born with peopole like a kind of good luck, suggesting that success comes from these inherent qualities alone, without the need for further development or effort because in their perspective effort a waste of time for people with low intelligence and mental abilities .
 
 ![mindset](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
-## markdown on github
-### Create sophisticated formatting for your prose and code on GitHub with simple syntax for:
-1) Headings
-3) Styling text
-4) Quoting text
-5) Quoting code
-6) Links
-7) Section links
-8) Relative links
-9) Lists
+## markdown on github:
+![markdn](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+### MD is a markup language  easy-to-use syntax text-styling and control document dispaly .
+> things  MD can format
+-  text
+-  lists
+-  imgs
+-  header and quotes
+-  codes
+
+
 
 ## Getting Started with GitHub Pages
-###GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.and in order to build your website and make your own changes use the following link for help:
+### GitHub Pages are public webpages hosted and easily published through GitHub. powered by Jekyll behind the scenes, so they’re a great way to host your Jekyll-powered website for free. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.and in order to build your website and make your own changes 
 [github](https://guides.github.com/features/pages/)
 ## *my name is zainab albadareen i am a mother of two and i am a chemist from just interested in computational chemistry  and solve chemical issues using computer and i am interested in coding*
