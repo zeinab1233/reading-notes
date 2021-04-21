@@ -29,12 +29,10 @@ When it comes to text editors, there are common features that they all share. It
 Today, many users rely upon graphical user interfaces and menu-driven interactions. However, some programming and maintenance tasks may not have a graphical user interface and may still use a command line.
 
 Alternatives to the command line interface include text-based user interface menus (for example, IBM AIX SMIT), keyboard shortcuts, and various desktop metaphors centered on the pointer (usually controlled with a mouse). Examples of this include the Microsoft Windows, DOS Shell, and Mouse Systems PowerPanel. Command-line interfaces are often implemented in terminal devices that are also capable of screen-oriented text-based user interfaces that use cursor addressing to place symbols on a display screen.
-#More About Files
+# More About Files
 A file extension is normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes what type of file it is. The following are common extensions:
-
 file.exe - an executable file, or program.
 file.txt - a plain text file.
 file.png, file.gif, file.jpg - an image.
+
 In other systems such as Windows the extension is important and the system uses it to determine what type of file it is. Under Linux the system actually ignores the extension and looks inside the file to determine what type of file it is. So for instance I could have a file myself.png which is a picture of me. I could rename the file to myself.txt or just myself and Linux would still happily treat the file as an image file. As such it can sometimes be hard to know for certain what type of file a particular file is. Luckily there is a command called file which we can use to find this out.
-=======
->>>>>>> a4a4a39fc9ed48e286da4b9d7b0bb513b7d4b385
