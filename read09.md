@@ -19,6 +19,7 @@ When it comes to text editors, there are common features that they all share. It
 2- TextWrangler/BB Edit
 3-Visual Studio Code
 4-Sublime Text
+<<<<<<< HEAD
 
 # A command-line interface (CLI)
  processes commands to a computer program in the form of lines of text.
@@ -35,3 +36,5 @@ file.exe - an executable file, or program.
 file.txt - a plain text file.
 file.png, file.gif, file.jpg - an image.
 In other systems such as Windows the extension is important and the system uses it to determine what type of file it is. Under Linux the system actually ignores the extension and looks inside the file to determine what type of file it is. So for instance I could have a file myself.png which is a picture of me. I could rename the file to myself.txt or just myself and Linux would still happily treat the file as an image file. As such it can sometimes be hard to know for certain what type of file a particular file is. Luckily there is a command called file which we can use to find this out.
+=======
+>>>>>>> a4a4a39fc9ed48e286da4b9d7b0bb513b7d4b385
